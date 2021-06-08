@@ -53,7 +53,7 @@ models:
         name: comments
         label: Comments
       - name: NIKOLL QUINTERO
-        type: string
+        type: color
         label: ''
   menus:
     type: data
