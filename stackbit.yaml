@@ -32,7 +32,7 @@ models:
         label: Image
   'Nikoll Quintero ':
     type: page
-    label: Page
+    label: 'NIKOLL QUINTERO '
     folder: pages
     match:
       - '*'
