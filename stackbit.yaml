@@ -54,6 +54,7 @@ models:
         label: Comments
       - name: ''
         type: string
+        label: ''
   menus:
     type: data
     label: Menus
