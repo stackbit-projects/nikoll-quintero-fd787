@@ -52,6 +52,8 @@ models:
       - type: boolean
         name: comments
         label: Comments
+      - name: ''
+        type: string
   menus:
     type: data
     label: Menus
