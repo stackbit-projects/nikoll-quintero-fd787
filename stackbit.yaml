@@ -54,7 +54,6 @@ models:
         label: Comments
       - name: NIKOLL QUINTERO
         type: color
-        label: ''
   menus:
     type: data
     label: Menus
