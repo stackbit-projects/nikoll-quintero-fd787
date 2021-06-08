@@ -52,7 +52,7 @@ models:
       - type: boolean
         name: comments
         label: Comments
-      - name: ''
+      - name: NIKOLL QUINTERO
         type: string
         label: ''
   menus:
